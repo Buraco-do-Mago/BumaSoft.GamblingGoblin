@@ -4,6 +4,7 @@
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs?ref=nixpkgs-unstable";
     flake-utils.url = "github:numtide/flake-utils";
+    rosetta.url = "github:lucaaaaum/rosetta";
   };
 
   outputs =
@@ -11,6 +12,7 @@
       self,
       nixpkgs,
       flake-utils,
+      rosetta,
     }:
     flake-utils.lib.eachDefaultSystem (
       system:
@@ -64,6 +66,7 @@
             sdk
             runtime
             dotnet-aspnetcore_10
+            rosetta.packages.${system}.default
           ];
         };
 
