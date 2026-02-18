@@ -5,9 +5,9 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D42787FA-FB0C-466D-8EEB-7EA34AF320DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuMa.Gambling", "src\BuMa.Gambling\BuMa.Gambling.csproj", "{4D835550-D98F-4A46-B5DC-157A9C5EFA8E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BumaSoft.GamblingGoblin", "src\BumaSoft.GamblingGoblin\BumaSoft.GamblingGoblin.csproj", "{4D835550-D98F-4A46-B5DC-157A9C5EFA8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuMa.Gambling.Tests", "tests\BuMa.Gambling.Tests\BuMa.Gambling.Tests.csproj", "{FC511076-9830-4FD8-BDED-95529E201478}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BumaSoft.GamblingGoblin.Tests", "tests\BumaSoft.GamblingGoblin.Tests\BumaSoft.GamblingGoblin.Tests.csproj", "{FC511076-9830-4FD8-BDED-95529E201478}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

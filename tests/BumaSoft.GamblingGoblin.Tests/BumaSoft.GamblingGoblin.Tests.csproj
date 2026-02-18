@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-      <ProjectReference Include="..\..\src\BuMa.Gambling\BuMa.Gambling.csproj" />
+      <ProjectReference Include="..\..\src\BumaSoft.GamblingGoblin\BumaSoft.GamblingGoblin.csproj" />
   </ItemGroup>
 
 </Project>
