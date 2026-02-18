@@ -1,7 +1,7 @@
-using BuMa.Gambling;
-using Range = BuMa.Gambling.Range;
+using BumaSoft.GamblingGoblin;
+using Range = BumaSoft.GamblingGoblin.Range;
 
-namespace Buma.Gambling.Tests;
+namespace BumaSoft.GamblingGoblin.Tests;
 
 public class DieTests
 {

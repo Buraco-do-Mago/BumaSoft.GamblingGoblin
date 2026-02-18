@@ -1,6 +1,4 @@
-using Range = BuMa.Gambling.Range;
-
-namespace Buma.Gambling.Tests;
+namespace BumaSoft.GamblingGoblin.Tests;
 
 public class RangeTests
 {

@@ -1,6 +1,6 @@
-using BuMa.Gambling.Exceptions;
+using BumaSoft.GamblingGoblin.Exceptions;
 
-namespace BuMa.Gambling;
+namespace BumaSoft.GamblingGoblin;
 
 public readonly struct Die
 {

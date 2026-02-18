@@ -1,4 +1,4 @@
-﻿namespace BuMa.Gambling;
+﻿namespace BumaSoft.GamblingGoblin;
 
 public struct Range(int? start = null, int? end = null)
 {
