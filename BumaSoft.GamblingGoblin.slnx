@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BumaSoft.GamblingGoblin/BumaSoft.GamblingGoblin.csproj" />
+    <Project Path="tests/BumaSoft.GamblingGoblin.Tests/BumaSoft.GamblingGoblin.Tests.csproj" />
+  </Folder>
+</Solution>
